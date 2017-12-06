@@ -21,7 +21,7 @@ module.exports = [
         id: 3,
         name: "Xzibit",
         email: "xzibit@westcost.com",
-        password: "muthafuckaBabySexyLady"
+        password: "heyBabySexyLady"
     },
     {
         id: 4,
